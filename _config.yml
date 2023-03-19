@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Site Title"
-title_separator          : "-"
+title                    : "Asd9752의 개발공부 블로그"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "asd9752"
-description              : "An amazing website."
+name                     : "Asd9752"
+description              : "가볍게 시작하는 개발 공부 블로그입니다."
 url                      : "https://asd9752.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
