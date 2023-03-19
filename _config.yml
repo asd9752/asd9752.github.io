@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Asd9752"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "공부하는 사람"
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
